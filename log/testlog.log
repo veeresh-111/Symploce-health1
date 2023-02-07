@@ -1,0 +1,33 @@
+2023-02-02 20:07:44,688 - healthcare -INFO - Entered the URL of app
+2023-02-02 20:07:44,996 - healthcare -INFO - Entered the username
+2023-02-02 20:07:45,679 - healthcare -INFO - Entered the password
+2023-02-02 20:11:48,411 - healthcare -INFO - Entered the URL of app
+2023-02-02 20:11:48,477 - healthcare -INFO - Entered the username
+2023-02-02 20:11:48,714 - healthcare -INFO - Entered the password
+2023-02-02 20:32:35,419 - healthcare -INFO - Entered the URL of app
+2023-02-02 20:32:35,480 - healthcare -INFO - Entered the username
+2023-02-02 20:32:35,779 - healthcare -INFO - Entered the password
+2023-02-02 20:40:14,151 - healthcare -INFO - Entered the URL of app
+2023-02-02 20:40:14,223 - healthcare -INFO - Entered the username
+2023-02-02 20:40:14,537 - healthcare -INFO - Entered the password
+2023-02-02 20:44:42,175 - healthcare -INFO - Entered the URL of app
+2023-02-02 20:44:42,286 - healthcare -INFO - Entered the username
+2023-02-02 20:44:42,512 - healthcare -INFO - Entered the password
+2023-02-02 20:44:45,635 - healthcare -INFO - Login test passed
+2023-02-02 20:52:50,251 - healthcare -INFO - Entered the URL of app
+2023-02-02 20:52:50,362 - healthcare -INFO - Entered the username
+2023-02-02 20:52:50,585 - healthcare -INFO - Entered the password
+2023-02-02 20:52:56,231 - healthcare -INFO - Login test passed
+2023-02-03 00:00:22,404 - healthcare -INFO - user name provided
+2023-02-03 00:00:22,682 - healthcare -INFO - password provided
+2023-02-03 00:00:30,224 - healthcare -INFO - user name provided
+2023-02-03 00:00:30,368 - healthcare -INFO - password provided
+2023-02-03 00:00:41,050 - healthcare -INFO - user name provided
+2023-02-03 00:00:41,391 - healthcare -INFO - password provided
+2023-02-03 00:00:49,002 - healthcare -INFO - user name provided
+2023-02-03 00:00:49,621 - healthcare -INFO - password provided
+2023-02-03 00:00:56,637 - healthcare -INFO - user name provided
+2023-02-03 00:00:56,915 - healthcare -INFO - password provided
+2023-02-03 00:01:04,978 - healthcare -INFO - user name provided
+2023-02-03 00:01:05,111 - healthcare -INFO - password provided
+2023-02-03 00:01:10,385 - healthcare -INFO - Login passed

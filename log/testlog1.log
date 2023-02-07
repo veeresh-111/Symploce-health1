@@ -1,0 +1,33 @@
+2023-02-02 20:07:44,688 [main] INFO healthcare - Entered the URL of app
+2023-02-02 20:07:44,996 [main] INFO healthcare - Entered the username
+2023-02-02 20:07:45,679 [main] INFO healthcare - Entered the password
+2023-02-02 20:11:48,411 [main] INFO healthcare - Entered the URL of app
+2023-02-02 20:11:48,477 [main] INFO healthcare - Entered the username
+2023-02-02 20:11:48,714 [main] INFO healthcare - Entered the password
+2023-02-02 20:32:35,419 [main] INFO healthcare - Entered the URL of app
+2023-02-02 20:32:35,480 [main] INFO healthcare - Entered the username
+2023-02-02 20:32:35,779 [main] INFO healthcare - Entered the password
+2023-02-02 20:40:14,151 [main] INFO healthcare - Entered the URL of app
+2023-02-02 20:40:14,223 [main] INFO healthcare - Entered the username
+2023-02-02 20:40:14,537 [main] INFO healthcare - Entered the password
+2023-02-02 20:44:42,175 [main] INFO healthcare - Entered the URL of app
+2023-02-02 20:44:42,286 [main] INFO healthcare - Entered the username
+2023-02-02 20:44:42,512 [main] INFO healthcare - Entered the password
+2023-02-02 20:44:45,635 [main] INFO healthcare - Login test passed
+2023-02-02 20:52:50,251 [main] INFO healthcare - Entered the URL of app
+2023-02-02 20:52:50,362 [main] INFO healthcare - Entered the username
+2023-02-02 20:52:50,585 [main] INFO healthcare - Entered the password
+2023-02-02 20:52:56,231 [main] INFO healthcare - Login test passed
+2023-02-03 00:00:22,404 [main] INFO healthcare - user name provided
+2023-02-03 00:00:22,682 [main] INFO healthcare - password provided
+2023-02-03 00:00:30,224 [main] INFO healthcare - user name provided
+2023-02-03 00:00:30,368 [main] INFO healthcare - password provided
+2023-02-03 00:00:41,050 [main] INFO healthcare - user name provided
+2023-02-03 00:00:41,391 [main] INFO healthcare - password provided
+2023-02-03 00:00:49,002 [main] INFO healthcare - user name provided
+2023-02-03 00:00:49,621 [main] INFO healthcare - password provided
+2023-02-03 00:00:56,637 [main] INFO healthcare - user name provided
+2023-02-03 00:00:56,915 [main] INFO healthcare - password provided
+2023-02-03 00:01:04,978 [main] INFO healthcare - user name provided
+2023-02-03 00:01:05,111 [main] INFO healthcare - password provided
+2023-02-03 00:01:10,385 [main] INFO healthcare - Login passed

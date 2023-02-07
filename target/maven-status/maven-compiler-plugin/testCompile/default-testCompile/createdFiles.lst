@@ -1,0 +1,6 @@
+com\symplocehealth\Testcases\Baseclass.class
+com\symplocehealth\utilities\Reporting.class
+com\symplocehealth\utilities\ReadConfig.class
+com\symplocehealth\pageobject\Addcustomerpage.class
+com\symplocehealth\pageobject\Loginpage.class
+com\symplocehealth\Testcases\TC_Logintest_01.class
