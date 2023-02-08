@@ -7,11 +7,8 @@
   <test name="Test">
   <parameter name="browser" value="chrome"></parameter>
     <classes>
-      <!--   <class name="com.inetBanking.testcases.TC_AddCustomerTest_003"/>-->
-      <!--  <class name="com.inetBanking.testcases.TC_LoginTest_001"/>-->
-     <class name="com.symplocehealth.Testcases.TC_LoginDDT_01"/>
-    <!-- <class name="com.symplocehealth.Testcases.TC_Logintest_01"/>-->
-    <!--  <class name="com.inetBanking.testcases.TC_FundTrasferTest"/>-->
+    <!-- <class name="com.symplocehealth.Testcases.TC_LoginDDT_01"/>-->
+    <class name="com.symplocehealth.Testcases.TC_Logintest_01"/>
     </classes>
   </test> 
 </suite> 
